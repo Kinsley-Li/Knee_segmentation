@@ -43,4 +43,4 @@ Ronneberger, O.; Fischer, P.; and Brox, T. 2015. U-net: Convolutional networks f
 ## Additional instructions:
 We can observe that the specific performance of the experiment does not compare well with the actual labels. This is due to limited resources. It's a tremendous amount of work, but our approach is correct. With sufficient resources in the future, we can further investigate.
 
-![Image text](https://github.com/LULU-Li0720/skmwork/blob/main/Performance.png)
+![Image text](https://github.com/LULU-Li0720/skmwork/blob/main/Comparison.png)
