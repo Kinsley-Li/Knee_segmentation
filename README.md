@@ -1,5 +1,5 @@
 # Skmwork
-# Fast and Accurate Keen Tissue Segmentation in Magnetic Resonance Imaging
+# Fast and Accurate Knee Tissue Segmentation in Magnetic Resonance Imaging
 
 ## Prepare folder
 (1) The first cell of ipynb, you can download skm-tea with pip install
