@@ -18,6 +18,7 @@ To make the code look concise and neat. We use several notebooks to present the 
 ### Google colab：
 It is recommended to use A100GPU.
 Follow the sections below to integrate the above files into a Notebook file. Then follow the steps below to run them.
+If you have doubts about this part, you can view the Supplement.PDF file, which will provide a rough format, but please note that this is our experimental result for a period and it has been abandoned.
 
 #### Prepare folder
 (1) The first cell of ipynb, you can download skm-tea with pip install
